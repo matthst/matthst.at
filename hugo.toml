@@ -1,7 +1,7 @@
 baseURL = 'https://matthst.at/'
 languageCode = 'en-us'
 title = 'matthst.at'
-theme = 'Typo'
+theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
